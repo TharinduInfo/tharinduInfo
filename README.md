@@ -9,18 +9,16 @@
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<br>
+<br>
 
-<!--
-**TharinduInfo/tharinduInfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently searching for a new career opportunity in Software industry.
-- 🌱 I’m currently learning more about java and React.js
-- 👯 I’m looking to collaborate on [Software Engineering]
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning more about java and React.js.
+- 👯 I’m looking to collaborate on [Software Engineering].
+- 🤔 I’m looking for help with
+- 💬 Ask me about
 - 📫 How to reach me: [Linkedin - @Tharindu Dhananjaya](https://www.linkedin.com/in/tharindu-dhananjaya-td/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
+
