@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<a href="http//www.linkedin.com/in/tharindu-dhananjaya-td/">
+<a href="https://www.linkedin.com/in/tharindu-dhananjaya-td/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/TharinduInfo/">
