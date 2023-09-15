@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on [Software Engineering].
 - 🤔 I’m looking for help with
 - 💬 Ask me about
-- 📫 How to reach me: [Linkedin - @Tharindu Dhananjaya](https://www.linkedin.com/in/tharindu-dhananjaya-td/)
+- 📫 How to reach me: [Linkedin - @Tharindu Dhananjaya](https://www.linkedin.com/in/tharindu-dhananjaya-td/)    [Email - usertharindu2@gmail.com]
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 
