@@ -13,8 +13,8 @@
 <br>
 
 
-- 🔭 I’m currently searching for a new career opportunity in Software industry.
-- 🌱 I’m currently learning more about java and React.js.
+- 🔭 I’m searching for a new career opportunity in the Software industry.
+- 🌱 I’m currently learning more about Java.
 - 👯 I’m looking to collaborate on [Software Engineering].
 - 🤔 I’m looking for help with
 - 💬 Ask me about
