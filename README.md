@@ -11,7 +11,7 @@
 
 <br>
 <br>
-<br>
+
 
 
 - 🔭 I’m searching for a new career opportunity in the Software industry.
