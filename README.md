@@ -13,6 +13,7 @@
 <br>
 <br>
 
+
 - 🔭 I’m searching for a new career opportunity in the Software industry.
 - 🌱 I’m currently learning more about Java.
 - 👯 I’m looking to collaborate on [Software Engineering].
